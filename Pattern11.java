@@ -13,4 +13,11 @@ public class Pattern11 {
        }
     }
  }
+output:
+********
+      *
+    *
+  *
+*
+********
  
