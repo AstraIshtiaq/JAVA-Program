@@ -12,6 +12,12 @@ public class Pattern5  {
        }
     }
  }
+Output:
+        *
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
  
     
 
