@@ -9,6 +9,13 @@ public class Pattern1 {
            }
         }
      }
-     
+
+output:
+* * * * *
+* * * *
+* * *
+* *
+*
+
     
 
