@@ -13,4 +13,10 @@ public class Pattern12 {
        }
     }
  }
+output:
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
  
