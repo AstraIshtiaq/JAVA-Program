@@ -12,6 +12,12 @@ public class Pattern6{
        }
     }
  }
+Outpur:
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
  
     
 
