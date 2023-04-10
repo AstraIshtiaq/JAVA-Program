@@ -1,0 +1,13 @@
+1. Create a java program that has at least 4 classes name Person, Student, Doctor,
+Engineer. Now create a relationship between the given classes with manitaining the
+given condition below.
+a) The Person class must have name, DOB, and address attributes. It also
+must at least have one constructor that takes person name and date of birth.
+b) The Student class must have student name, ID, school attributes. It also
+must at least have one constructor that takes student name and lb.
+c) The Doctor dass must have name, DOB, address, school attributes as well
+as Degree and Consultation fee.
+d) The Engineer class must have name, DOB, address, school attributes as
+well as Degree and Experience.
+***Everyclass must have parameterised constructor that can be used to create
+objects with diffent set of values.
